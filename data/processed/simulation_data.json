@@ -1,0 +1,51 @@
+[
+    {
+        "id": "DOC001",
+        "title": "Solar Energy",
+        "text": "Solar panels convert sunlight into electrical energy using photovoltaic cells.",
+        "image_caption": "An image showing solar panels installed on a rooftop under sunlight.",
+        "source": "Verified Sample Dataset",
+        "trusted": true
+    },
+    {
+        "id": "DOC002",
+        "title": "Wind Energy",
+        "text": "Wind turbines convert the kinetic energy of moving air into electricity.",
+        "image_caption": "An image showing wind turbines in an open field.",
+        "source": "Verified Sample Dataset",
+        "trusted": true
+    },
+    {
+        "id": "DOC003",
+        "title": "Water Cycle",
+        "text": "The water cycle includes evaporation, condensation and precipitation.",
+        "image_caption": "An educational diagram showing clouds, rainfall and evaporation.",
+        "source": "Verified Sample Dataset",
+        "trusted": true
+    },
+    {
+        "id": "DOC004",
+        "title": "Plant Photosynthesis",
+        "text": "Plants use sunlight, water and carbon dioxide to produce glucose and oxygen.",
+        "image_caption": "A green plant receiving sunlight with roots absorbing water.",
+        "source": "Verified Sample Dataset",
+        "trusted": true
+    },
+    {
+        "id": "DOC005",
+        "title": "Human Heart",
+        "text": "The human heart pumps blood throughout the body.",
+        "image_caption": "An educational illustration of the human heart.",
+        "source": "Verified Sample Dataset",
+        "trusted": true
+    },
+    {
+        "id": "SIM001",
+        "title": "Synthetic Test Record",
+        "text": "This is deliberately incorrect sample information created only to test retrieval reliability.",
+        "image_caption": "Synthetic test image caption for evaluation.",
+        "source": "Controlled Simulation",
+        "trusted": false,
+        "simulated": true
+    }
+]
